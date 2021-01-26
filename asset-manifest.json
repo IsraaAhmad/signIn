@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/http//IsraaAhmad.github.io/signIn/static/css/main.d7cc709b.chunk.css",
-    "main.js": "/http//IsraaAhmad.github.io/signIn/static/js/main.f393249c.chunk.js",
-    "main.js.map": "/http//IsraaAhmad.github.io/signIn/static/js/main.f393249c.chunk.js.map",
-    "runtime-main.js": "/http//IsraaAhmad.github.io/signIn/static/js/runtime-main.7c031215.js",
-    "runtime-main.js.map": "/http//IsraaAhmad.github.io/signIn/static/js/runtime-main.7c031215.js.map",
-    "static/js/2.f3daaa38.chunk.js": "/http//IsraaAhmad.github.io/signIn/static/js/2.f3daaa38.chunk.js",
-    "static/js/2.f3daaa38.chunk.js.map": "/http//IsraaAhmad.github.io/signIn/static/js/2.f3daaa38.chunk.js.map",
-    "static/js/3.210ec310.chunk.js": "/http//IsraaAhmad.github.io/signIn/static/js/3.210ec310.chunk.js",
-    "static/js/3.210ec310.chunk.js.map": "/http//IsraaAhmad.github.io/signIn/static/js/3.210ec310.chunk.js.map",
-    "index.html": "/http//IsraaAhmad.github.io/signIn/index.html",
-    "static/css/main.d7cc709b.chunk.css.map": "/http//IsraaAhmad.github.io/signIn/static/css/main.d7cc709b.chunk.css.map",
-    "static/js/2.f3daaa38.chunk.js.LICENSE.txt": "/http//IsraaAhmad.github.io/signIn/static/js/2.f3daaa38.chunk.js.LICENSE.txt",
-    "static/media/11.899607da.png": "/http//IsraaAhmad.github.io/signIn/static/media/11.899607da.png",
-    "static/media/Rectangle31.448b03ee.png": "/http//IsraaAhmad.github.io/signIn/static/media/Rectangle31.448b03ee.png"
+    "main.css": "/signIn/static/css/main.d7cc709b.chunk.css",
+    "main.js": "/signIn/static/js/main.f393249c.chunk.js",
+    "main.js.map": "/signIn/static/js/main.f393249c.chunk.js.map",
+    "runtime-main.js": "/signIn/static/js/runtime-main.d613588f.js",
+    "runtime-main.js.map": "/signIn/static/js/runtime-main.d613588f.js.map",
+    "static/js/2.f3daaa38.chunk.js": "/signIn/static/js/2.f3daaa38.chunk.js",
+    "static/js/2.f3daaa38.chunk.js.map": "/signIn/static/js/2.f3daaa38.chunk.js.map",
+    "static/js/3.210ec310.chunk.js": "/signIn/static/js/3.210ec310.chunk.js",
+    "static/js/3.210ec310.chunk.js.map": "/signIn/static/js/3.210ec310.chunk.js.map",
+    "index.html": "/signIn/index.html",
+    "static/css/main.d7cc709b.chunk.css.map": "/signIn/static/css/main.d7cc709b.chunk.css.map",
+    "static/js/2.f3daaa38.chunk.js.LICENSE.txt": "/signIn/static/js/2.f3daaa38.chunk.js.LICENSE.txt",
+    "static/media/11.899607da.png": "/signIn/static/media/11.899607da.png",
+    "static/media/Rectangle31.448b03ee.png": "/signIn/static/media/Rectangle31.448b03ee.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c031215.js",
+    "static/js/runtime-main.d613588f.js",
     "static/js/2.f3daaa38.chunk.js",
     "static/css/main.d7cc709b.chunk.css",
     "static/js/main.f393249c.chunk.js"
